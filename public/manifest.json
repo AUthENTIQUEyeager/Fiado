@@ -1,0 +1,13 @@
+{
+  "name": "FIADO",
+  "short_name": "FIADO",
+  "description": "Carnet de credit et relances automatiques pour commercants",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#04342C",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
